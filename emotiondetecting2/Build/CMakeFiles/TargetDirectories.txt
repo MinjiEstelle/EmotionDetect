@@ -1,0 +1,1 @@
+/home/pi/emotion/EmotionDetect/emotiondetecting2/Build/CMakeFiles/facialdetect2.dir
